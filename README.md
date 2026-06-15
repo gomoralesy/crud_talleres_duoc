@@ -1,8 +1,8 @@
 # crud_talleres_duoc
 Nombre del proyecto: SISTEMA CRUD DE TALLERES DUOC
-- Hecho por: Gonzalo Morales Yáñez
+- Hecho por: Gonzalo Morales Yáñez, estudiante ing. en informática
 
-- Este sistema CRUD tiene la función de registrar talleres del DuoC, con datos como el código que tendrá en el sistema, nombre del traller, docente responsable y cupos máximos; además, nos permitirá listar todos los talleres registrados mostrando sus datos y, utilizando el código respectivo del taller en el sistema, podremos buscar, actualizar o eliminar el taller registrado.
+- Este sistema CRUD tiene la función de registrar talleres del DuoC con datos como el código que tendrá en el sistema, nombre del taller, docente responsable y cupos máximos; además, nos permitirá listar todos los talleres registrados mostrando sus datos y, utilizando el código respectivo del taller en el sistema, podremos buscar, actualizar o eliminar el taller registrado.
 - Para ejecutar el programa, debe tener descargados los dos archivos .py del repositorio, los cuales son, main_ejercicio_2.py y funciones_ejercicio_2.py.
 Primero debe ejecutar el archivo de funciones para luego, poder utilizar el archivo main.
 
